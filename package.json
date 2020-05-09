@@ -4,6 +4,7 @@
   "private": true,
   "author": "Zlatan Pham <zlatan.pham@gmail.com> (https://github.com/zlatanpham)",
   "dependencies": {
+    "antd": "^4.2.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
@@ -48,6 +49,7 @@
     "@types/react": "16.9.34",
     "@types/react-dom": "16.9.7",
     "@types/styled-components": "^5.1.0",
+    "babel-plugin-import": "^1.13.0",
     "babel-plugin-styled-components": "^1.10.7",
     "customize-cra": "^0.9.1",
     "customize-cra-react-refresh": "^1.0.1",
